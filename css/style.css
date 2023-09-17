@@ -319,9 +319,9 @@ header
      box-shadow: 0px 2px 8px 5px rgba(0, 0, 0, 0.8);
 }
 
-.header .logo_section {
+/* .header .logo_section {
      margin-top: -13px;
-}
+} */
 
 .sticky {
      position: fixed;
@@ -6231,7 +6231,7 @@ ul.social_icon li a:hover {
      }
 
      .banner_main .bluid h1.indtit {
-          font-size: 34px;
+          font-size: 28.5px;
           padding-bottom: 25px;
           margin-top: -15px;
      }
@@ -7272,7 +7272,7 @@ ul.social_icon li a:hover {
      }
 
      .banner_main .bluid h1.indtit {
-          font-size: 29px;
+          font-size: 24.655px;
           padding-bottom: 20px;
           margin-top: -15px;
      }
@@ -8282,7 +8282,7 @@ ul.social_icon li a:hover {
      }
 
      .banner_main .bluid h1.indtit {
-          font-size: 22px;
+          font-size: 19.95px;
           padding-bottom: 10px;
           margin-top: -27px;
      }
